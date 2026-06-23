@@ -1,0 +1,695 @@
+{
+  "matchId": 1489391,
+  "teams": [
+    {
+      "teamId": 2384,
+      "teamName": "USA",
+      "teamLogo": "https://media.api-sports.io/football/teams/2384.png",
+      "teamTotalPoints": 715,
+      "players": [
+        {
+          "playerId": 50728,
+          "playerName": "Matthew Freese",
+          "photo": "https://media.api-sports.io/football/players/50728.png",
+          "position": "G",
+          "minutes": 90,
+          "substitute": false,
+          "totalPoints": 64,
+          "breakdown": {
+            "started": 4,
+            "played60": 10,
+            "fullMatch": 5,
+            "passes": 10,
+            "saves": 10,
+            "cleanSheet": 25
+          }
+        },
+        {
+          "playerId": 355994,
+          "playerName": "Alexander Freeman",
+          "photo": "https://media.api-sports.io/football/players/355994.png",
+          "position": "D",
+          "minutes": 90,
+          "substitute": false,
+          "totalPoints": 146,
+          "breakdown": {
+            "started": 4,
+            "played60": 10,
+            "fullMatch": 5,
+            "goals": 40,
+            "shotsOnTarget": 8,
+            "passes": 30,
+            "tackles": 16,
+            "interceptions": 8,
+            "cleanSheet": 25
+          }
+        },
+        {
+          "playerId": 126949,
+          "playerName": "Chris Richards",
+          "photo": "https://media.api-sports.io/football/players/126949.png",
+          "position": "D",
+          "minutes": 90,
+          "substitute": false,
+          "totalPoints": 99,
+          "breakdown": {
+            "started": 4,
+            "played60": 10,
+            "fullMatch": 5,
+            "passes": 40,
+            "tackles": 12,
+            "interceptions": 8,
+            "cleanSheet": 25,
+            "yellowCard": -5
+          }
+        },
+        {
+          "playerId": 19023,
+          "playerName": "Tim Ream",
+          "photo": "https://media.api-sports.io/football/players/19023.png",
+          "position": "D",
+          "minutes": 90,
+          "substitute": false,
+          "totalPoints": 82,
+          "breakdown": {
+            "started": 4,
+            "played60": 10,
+            "fullMatch": 5,
+            "passes": 30,
+            "interceptions": 8,
+            "cleanSheet": 25
+          }
+        },
+        {
+          "playerId": 38735,
+          "playerName": "Sergiño Dest",
+          "photo": "https://media.api-sports.io/football/players/38735.png",
+          "position": "M",
+          "minutes": 80,
+          "substitute": false,
+          "totalPoints": 32,
+          "breakdown": {
+            "started": 4,
+            "played60": 10,
+            "shotsOnTarget": 8,
+            "passes": 10
+          }
+        },
+        {
+          "playerId": 415,
+          "playerName": "Weston McKennie",
+          "photo": "https://media.api-sports.io/football/players/415.png",
+          "position": "M",
+          "minutes": 89,
+          "substitute": false,
+          "totalPoints": 52,
+          "breakdown": {
+            "started": 4,
+            "played60": 10,
+            "passes": 10,
+            "tackles": 12,
+            "interceptions": 16
+          }
+        },
+        {
+          "playerId": 1150,
+          "playerName": "Tyler Adams",
+          "photo": "https://media.api-sports.io/football/players/1150.png",
+          "position": "M",
+          "minutes": 90,
+          "substitute": false,
+          "totalPoints": 81,
+          "breakdown": {
+            "started": 4,
+            "played60": 10,
+            "fullMatch": 5,
+            "passes": 30,
+            "tackles": 16,
+            "interceptions": 16
+          }
+        },
+        {
+          "playerId": 162037,
+          "playerName": "Malik Tillman",
+          "photo": "https://media.api-sports.io/football/players/162037.png",
+          "position": "M",
+          "minutes": 90,
+          "substitute": false,
+          "totalPoints": 63,
+          "breakdown": {
+            "started": 4,
+            "played60": 10,
+            "fullMatch": 5,
+            "passes": 20,
+            "tackles": 12,
+            "interceptions": 12
+          }
+        },
+        {
+          "playerId": 19549,
+          "playerName": "Antonee Robinson",
+          "photo": "https://media.api-sports.io/football/players/19549.png",
+          "position": "M",
+          "minutes": 80,
+          "substitute": false,
+          "totalPoints": 49,
+          "breakdown": {
+            "started": 4,
+            "played60": 10,
+            "passes": 20,
+            "tackles": 12,
+            "interceptions": 8,
+            "yellowCard": -5
+          }
+        },
+        {
+          "playerId": 138835,
+          "playerName": "Folarin Balogun",
+          "photo": "https://media.api-sports.io/football/players/138835.png",
+          "position": "F",
+          "minutes": 89,
+          "substitute": false,
+          "totalPoints": 13,
+          "breakdown": {
+            "started": 4,
+            "played60": 10,
+            "interceptions": 4,
+            "yellowCard": -5
+          }
+        },
+        {
+          "playerId": 73868,
+          "playerName": "Ricardo Pepi",
+          "photo": "https://media.api-sports.io/football/players/73868.png",
+          "position": "F",
+          "minutes": 74,
+          "substitute": false,
+          "totalPoints": 14,
+          "breakdown": {
+            "started": 4,
+            "played60": 10
+          }
+        },
+        {
+          "playerId": 201713,
+          "playerName": "Sebastian Berhalter",
+          "photo": "https://media.api-sports.io/football/players/201713.png",
+          "position": "M",
+          "minutes": 16,
+          "substitute": true,
+          "totalPoints": 4,
+          "breakdown": {
+            "started": 4
+          }
+        },
+        {
+          "playerId": 50737,
+          "playerName": "Auston Trusty",
+          "photo": "https://media.api-sports.io/football/players/50737.png",
+          "position": "D",
+          "minutes": 10,
+          "substitute": true,
+          "totalPoints": 4,
+          "breakdown": {
+            "started": 4
+          }
+        },
+        {
+          "playerId": 50852,
+          "playerName": "Joe Scally",
+          "photo": "https://media.api-sports.io/football/players/50852.png",
+          "position": "D",
+          "minutes": 10,
+          "substitute": true,
+          "totalPoints": 4,
+          "breakdown": {
+            "started": 4
+          }
+        },
+        {
+          "playerId": 161921,
+          "playerName": "Giovanni Reyna",
+          "photo": "https://media.api-sports.io/football/players/161921.png",
+          "position": "M",
+          "minutes": 1,
+          "substitute": true,
+          "totalPoints": 4,
+          "breakdown": {
+            "started": 4
+          }
+        },
+        {
+          "playerId": 427,
+          "playerName": "Haji Wright",
+          "photo": "https://media.api-sports.io/football/players/427.png",
+          "position": "F",
+          "minutes": 1,
+          "substitute": true,
+          "totalPoints": 4,
+          "breakdown": {
+            "started": 4
+          }
+        },
+        {
+          "playerId": 50999,
+          "playerName": "Matt Turner",
+          "photo": "https://media.api-sports.io/football/players/50999.png",
+          "position": "G",
+          "minutes": 0,
+          "substitute": true,
+          "totalPoints": 0,
+          "breakdown": {}
+        },
+        {
+          "playerId": 266606,
+          "playerName": "Chris Brady",
+          "photo": "https://media.api-sports.io/football/players/266606.png",
+          "position": "G",
+          "minutes": 0,
+          "substitute": true,
+          "totalPoints": 0,
+          "breakdown": {}
+        },
+        {
+          "playerId": 50879,
+          "playerName": "Miles Robinson",
+          "photo": "https://media.api-sports.io/football/players/50879.png",
+          "position": "D",
+          "minutes": 0,
+          "substitute": true,
+          "totalPoints": 0,
+          "breakdown": {}
+        },
+        {
+          "playerId": 50735,
+          "playerName": "Mark McKenzie",
+          "photo": "https://media.api-sports.io/football/players/50735.png",
+          "position": "D",
+          "minutes": 0,
+          "substitute": true,
+          "totalPoints": 0,
+          "breakdown": {}
+        },
+        {
+          "playerId": 362400,
+          "playerName": "Maximilian Arfsten",
+          "photo": "https://media.api-sports.io/football/players/362400.png",
+          "position": "M",
+          "minutes": 0,
+          "substitute": true,
+          "totalPoints": 0,
+          "breakdown": {}
+        },
+        {
+          "playerId": 51114,
+          "playerName": "Cristian Roldán",
+          "photo": "https://media.api-sports.io/football/players/51114.png",
+          "position": "M",
+          "minutes": 0,
+          "substitute": true,
+          "totalPoints": 0,
+          "breakdown": {}
+        },
+        {
+          "playerId": 50739,
+          "playerName": "Brenden Aaronson",
+          "photo": "https://media.api-sports.io/football/players/50739.png",
+          "position": "M",
+          "minutes": 0,
+          "substitute": true,
+          "totalPoints": 0,
+          "breakdown": {}
+        },
+        {
+          "playerId": 1138,
+          "playerName": "Tim Weah",
+          "photo": "https://media.api-sports.io/football/players/1138.png",
+          "position": "F",
+          "minutes": 0,
+          "substitute": true,
+          "totalPoints": 0,
+          "breakdown": {}
+        },
+        {
+          "playerId": 35885,
+          "playerName": "Alex Zendejas",
+          "photo": "https://media.api-sports.io/football/players/35885.png",
+          "position": "F",
+          "minutes": 0,
+          "substitute": true,
+          "totalPoints": 0,
+          "breakdown": {}
+        }
+      ]
+    },
+    {
+      "teamId": 20,
+      "teamName": "Australia",
+      "teamLogo": "https://media.api-sports.io/football/teams/20.png",
+      "teamTotalPoints": 441,
+      "players": [
+        {
+          "playerId": 353883,
+          "playerName": "Patrick Beach",
+          "photo": "https://media.api-sports.io/football/players/353883.png",
+          "position": "G",
+          "minutes": 90,
+          "substitute": false,
+          "totalPoints": 24,
+          "breakdown": {
+            "started": 4,
+            "played60": 10,
+            "fullMatch": 5,
+            "saves": 5
+          }
+        },
+        {
+          "playerId": 6808,
+          "playerName": "Jacob Italiano",
+          "photo": "https://media.api-sports.io/football/players/6808.png",
+          "position": "D",
+          "minutes": 90,
+          "substitute": false,
+          "totalPoints": 53,
+          "breakdown": {
+            "started": 4,
+            "played60": 10,
+            "fullMatch": 5,
+            "passes": 10,
+            "tackles": 4,
+            "cleanSheet": 25,
+            "yellowCard": -5
+          }
+        },
+        {
+          "playerId": 348568,
+          "playerName": "Alessandro Circati",
+          "photo": "https://media.api-sports.io/football/players/348568.png",
+          "position": "D",
+          "minutes": 90,
+          "substitute": false,
+          "totalPoints": 71,
+          "breakdown": {
+            "started": 4,
+            "played60": 10,
+            "fullMatch": 5,
+            "passes": 10,
+            "tackles": 12,
+            "blocks": 10,
+            "cleanSheet": 25,
+            "yellowCard": -5
+          }
+        },
+        {
+          "playerId": 20079,
+          "playerName": "Harry Souttar",
+          "photo": "https://media.api-sports.io/football/players/20079.png",
+          "position": "D",
+          "minutes": 90,
+          "substitute": false,
+          "totalPoints": 59,
+          "breakdown": {
+            "started": 4,
+            "played60": 10,
+            "fullMatch": 5,
+            "passes": 10,
+            "blocks": 10,
+            "cleanSheet": 25,
+            "yellowCard": -5
+          }
+        },
+        {
+          "playerId": 20457,
+          "playerName": "Cameron Burgess",
+          "photo": "https://media.api-sports.io/football/players/20457.png",
+          "position": "D",
+          "minutes": 45,
+          "substitute": false,
+          "totalPoints": 13,
+          "breakdown": {
+            "started": 4,
+            "interceptions": 4,
+            "blocks": 5
+          }
+        },
+        {
+          "playerId": 337587,
+          "playerName": "Jordan Bos",
+          "photo": "https://media.api-sports.io/football/players/337587.png",
+          "position": "D",
+          "minutes": 90,
+          "substitute": false,
+          "totalPoints": 62,
+          "breakdown": {
+            "started": 4,
+            "played60": 10,
+            "fullMatch": 5,
+            "passes": 10,
+            "tackles": 4,
+            "interceptions": 4,
+            "blocks": 5,
+            "cleanSheet": 25,
+            "yellowCard": -5
+          }
+        },
+        {
+          "playerId": 2751,
+          "playerName": "Mathew Leckie",
+          "photo": "https://media.api-sports.io/football/players/2751.png",
+          "position": "M",
+          "minutes": 61,
+          "substitute": false,
+          "totalPoints": 14,
+          "breakdown": {
+            "started": 4,
+            "played60": 10
+          }
+        },
+        {
+          "playerId": 7050,
+          "playerName": "Aiden O'Neill",
+          "photo": "https://media.api-sports.io/football/players/7050.png",
+          "position": "M",
+          "minutes": 90,
+          "substitute": false,
+          "totalPoints": 41,
+          "breakdown": {
+            "started": 4,
+            "played60": 10,
+            "fullMatch": 5,
+            "passes": 10,
+            "tackles": 4,
+            "interceptions": 8
+          }
+        },
+        {
+          "playerId": 441269,
+          "playerName": "Paul Okon-Engstler",
+          "photo": "https://media.api-sports.io/football/players/441269.png",
+          "position": "M",
+          "minutes": 78,
+          "substitute": false,
+          "totalPoints": 32,
+          "breakdown": {
+            "started": 4,
+            "played60": 10,
+            "passes": 10,
+            "tackles": 8
+          }
+        },
+        {
+          "playerId": 312459,
+          "playerName": "Nishan Velupillay",
+          "photo": "https://media.api-sports.io/football/players/312459.png",
+          "position": "M",
+          "minutes": 45,
+          "substitute": false,
+          "totalPoints": 12,
+          "breakdown": {
+            "started": 4,
+            "tackles": 8
+          }
+        },
+        {
+          "playerId": 198352,
+          "playerName": "Mohamed Touré",
+          "photo": "https://media.api-sports.io/football/players/198352.png",
+          "position": "F",
+          "minutes": 45,
+          "substitute": false,
+          "totalPoints": 16,
+          "breakdown": {
+            "started": 4,
+            "shotsOnTarget": 8,
+            "tackles": 4
+          }
+        },
+        {
+          "playerId": 33847,
+          "playerName": "Jason Geria",
+          "photo": "https://media.api-sports.io/football/players/33847.png",
+          "position": "D",
+          "minutes": 45,
+          "substitute": true,
+          "totalPoints": 12,
+          "breakdown": {
+            "started": 4,
+            "tackles": 4,
+            "interceptions": 4
+          }
+        },
+        {
+          "playerId": 6904,
+          "playerName": "Connor Metcalfe",
+          "photo": "https://media.api-sports.io/football/players/6904.png",
+          "position": "M",
+          "minutes": 45,
+          "substitute": true,
+          "totalPoints": 20,
+          "breakdown": {
+            "started": 4,
+            "shotsOnTarget": 8,
+            "tackles": 4,
+            "interceptions": 4
+          }
+        },
+        {
+          "playerId": 338014,
+          "playerName": "Nestory Irankunda",
+          "photo": "https://media.api-sports.io/football/players/338014.png",
+          "position": "F",
+          "minutes": 45,
+          "substitute": true,
+          "totalPoints": 4,
+          "breakdown": {
+            "started": 4
+          }
+        },
+        {
+          "playerId": 342035,
+          "playerName": "Cristian Volpato",
+          "photo": "https://media.api-sports.io/football/players/342035.png",
+          "position": "M",
+          "minutes": 29,
+          "substitute": true,
+          "totalPoints": 4,
+          "breakdown": {
+            "started": 4
+          }
+        },
+        {
+          "playerId": 2749,
+          "playerName": "Jackson Irvine",
+          "photo": "https://media.api-sports.io/football/players/2749.png",
+          "position": "M",
+          "minutes": 12,
+          "substitute": true,
+          "totalPoints": 4,
+          "breakdown": {
+            "started": 4
+          }
+        },
+        {
+          "playerId": 2741,
+          "playerName": "Mathew Ryan",
+          "photo": "https://media.api-sports.io/football/players/2741.png",
+          "position": "G",
+          "minutes": 0,
+          "substitute": true,
+          "totalPoints": 0,
+          "breakdown": {}
+        },
+        {
+          "playerId": 6870,
+          "playerName": "Paul Izzo",
+          "photo": "https://media.api-sports.io/football/players/6870.png",
+          "position": "G",
+          "minutes": 0,
+          "substitute": true,
+          "totalPoints": 0,
+          "breakdown": {}
+        },
+        {
+          "playerId": 2742,
+          "playerName": "Miloš Degenek",
+          "photo": "https://media.api-sports.io/football/players/2742.png",
+          "position": "D",
+          "minutes": 0,
+          "substitute": true,
+          "totalPoints": 0,
+          "breakdown": {}
+        },
+        {
+          "playerId": 225,
+          "playerName": "Aziz Behich",
+          "photo": "https://media.api-sports.io/football/players/225.png",
+          "position": "D",
+          "minutes": 0,
+          "substitute": true,
+          "totalPoints": 0,
+          "breakdown": {}
+        },
+        {
+          "playerId": 426480,
+          "playerName": "Lucas Herrington",
+          "photo": "https://media.api-sports.io/football/players/426480.png",
+          "position": "D",
+          "minutes": 0,
+          "substitute": true,
+          "totalPoints": 0,
+          "breakdown": {}
+        },
+        {
+          "playerId": 153622,
+          "playerName": "Kai Trewin",
+          "photo": "https://media.api-sports.io/football/players/153622.png",
+          "position": "D",
+          "minutes": 0,
+          "substitute": true,
+          "totalPoints": 0,
+          "breakdown": {}
+        },
+        {
+          "playerId": 6832,
+          "playerName": "Cameron Devlin",
+          "photo": "https://media.api-sports.io/football/players/6832.png",
+          "position": "M",
+          "minutes": 0,
+          "substitute": true,
+          "totalPoints": 0,
+          "breakdown": {}
+        },
+        {
+          "playerId": 38123,
+          "playerName": "Ajdin Hrustić",
+          "photo": "https://media.api-sports.io/football/players/38123.png",
+          "position": "M",
+          "minutes": 0,
+          "substitute": true,
+          "totalPoints": 0,
+          "breakdown": {}
+        },
+        {
+          "playerId": 2755,
+          "playerName": "Awer Mabil",
+          "photo": "https://media.api-sports.io/football/players/2755.png",
+          "position": "M",
+          "minutes": 0,
+          "substitute": true,
+          "totalPoints": 0,
+          "breakdown": {}
+        },
+        {
+          "playerId": 296645,
+          "playerName": "Tete Yengi",
+          "photo": "https://media.api-sports.io/football/players/296645.png",
+          "position": "F",
+          "minutes": 0,
+          "substitute": true,
+          "totalPoints": 0,
+          "breakdown": {}
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+server:
+  port: ${PORT:8080}
+
+spring:
+  application:
+    name: fantasy-scoring
+
+apifootball:
+  base-url: https://v3.football.api-sports.io
+  api-key: ${API_FOOTBALL_KEY:0da66c440ae9302c51160e64fc562209}
