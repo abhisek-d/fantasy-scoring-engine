@@ -15,7 +15,7 @@ public class RestClientConfig {
     private String apiKey;
 
     @Bean
-    public RestClient apiFootballClient() {
+    public RestClient apiFootballRestClient() {
         return RestClient.builder()
                 .baseUrl(baseUrl)
                 .defaultHeader("x-apisports-key", apiKey)
