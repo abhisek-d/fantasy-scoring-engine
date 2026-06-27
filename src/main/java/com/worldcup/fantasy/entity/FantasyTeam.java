@@ -29,6 +29,13 @@ public class FantasyTeam {
     @OrderBy("grid ASC")
     private List<FantasyTeamPlayer> players = new ArrayList<>();
 
+    @PrePersist
+    protected void onCreate() {
+        if (this.createdAt == null) {
+            this.createdAt = OffsetDateTime.now();
+        }
+    }
+
     // getters and setters
     public String getTeamId() { return teamId; }
     public void setTeamId(String teamId) { this.teamId = teamId; }
