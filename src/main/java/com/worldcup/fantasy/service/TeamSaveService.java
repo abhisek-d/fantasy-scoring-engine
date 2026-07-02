@@ -36,6 +36,18 @@ public class TeamSaveService {
             throw new IllegalArgumentException("startXI must contain exactly 11 players");
         }
 
+        // Email is required for the duplicate check
+        String email = teamInfo.getEmail();
+        if (email == null || email.isBlank()) {
+            throw new IllegalArgumentException("email is required");
+        }
+
+        // Duplicate-submission guard: one email may submit only one team per fixture
+        if (teamRepository.existsByMatchIdAndEmail(matchId, email)) {
+            throw new IllegalArgumentException(
+                    "A team is already present with this email for this match.");
+        }
+
         // Generate team id: name + random 5-digit number
         String teamId = generateTeamId(teamInfo.getName());
 
@@ -44,7 +56,7 @@ public class TeamSaveService {
         team.setTeamId(teamId);
         team.setMatchId(matchId);
         team.setTeamName(teamInfo.getName());
-        team.setEmail(teamInfo.getEmail());
+        team.setEmail(email);
         teamRepository.save(team);
 
         // Save the 11 player rows

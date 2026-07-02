@@ -8,4 +8,7 @@ public interface FantasyTeamRepository extends JpaRepository<FantasyTeam, String
 
     // all teams submitted for a given match
     List<FantasyTeam> findByMatchId(Long matchId);
+
+    // for duplicate-submission check: same match + same email
+    boolean existsByMatchIdAndEmail(Long matchId, String email);
 }
